@@ -18,3 +18,9 @@
 #define COCOAPODS_VERSION_MINOR_FlurrySDK 3
 #define COCOAPODS_VERSION_PATCH_FlurrySDK 2
 
+// ObjectiveSugar
+#define COCOAPODS_POD_AVAILABLE_ObjectiveSugar
+#define COCOAPODS_VERSION_MAJOR_ObjectiveSugar 1
+#define COCOAPODS_VERSION_MINOR_ObjectiveSugar 1
+#define COCOAPODS_VERSION_PATCH_ObjectiveSugar 0
+
